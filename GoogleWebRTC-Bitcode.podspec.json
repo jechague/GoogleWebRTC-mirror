@@ -15,7 +15,7 @@
     "README.md"
   ],
   "source": {
-    "http": "https://github.com/jechague/GoogleWebRTC-mirror/releases/download/v.1.1.29024/WebRTC-1.1.29024.framework.tar.gz"
+    "http": "https://github.com/jechague/GoogleWebRTC-mirror/releases/download/v1.1.29024/WebRTC-1.1.29024.framework.tar.gz"
   },
   "summary": "WebRTC iOS SDK with bitcode enabled",
   "vendored_frameworks": [
